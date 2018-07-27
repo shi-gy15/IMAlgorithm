@@ -1,0 +1,147 @@
+k = 5, threshold = 0.2
+In CELF: Time: 3.962, Influence: 1425
+In simple greedy: Time: 6.86, Influence: 1435
+k = 5, threshold = 0.3
+In CELF: Time: 0.078, Influence: 276
+In simple greedy: Time: 0.822, Influence: 325
+k = 5, threshold = 0.4
+In CELF: Time: 0.06, Influence: 150
+In simple greedy: Time: 0.441, Influence: 159
+k = 5, threshold = 0.5
+In CELF: Time: 0.059, Influence: 150
+In simple greedy: Time: 0.426, Influence: 150
+k = 5, threshold = 0.6
+In CELF: Time: 0.051, Influence: 98
+In simple greedy: Time: 0.305, Influence: 98
+k = 5, threshold = 0.7
+In CELF: Time: 0.051, Influence: 98
+In simple greedy: Time: 0.298, Influence: 98
+k = 5, threshold = 0.8
+In CELF: Time: 0.052, Influence: 98
+In simple greedy: Time: 0.299, Influence: 98
+k = 10, threshold = 0.2
+In CELF: Time: 8.583, Influence: 1458
+In simple greedy: Time: 15.259, Influence: 1459
+k = 10, threshold = 0.3
+In CELF: Time: 0.097, Influence: 1138
+In simple greedy: Time: 4.671, Influence: 1116
+k = 10, threshold = 0.4
+In CELF: Time: 0.062, Influence: 253
+In simple greedy: Time: 1.633, Influence: 261
+k = 10, threshold = 0.5
+In CELF: Time: 0.063, Influence: 237
+In simple greedy: Time: 1.513, Influence: 245
+k = 10, threshold = 0.6
+In CELF: Time: 0.055, Influence: 152
+In simple greedy: Time: 0.995, Influence: 152
+k = 10, threshold = 0.7
+In CELF: Time: 0.058, Influence: 152
+In simple greedy: Time: 0.99, Influence: 152
+k = 10, threshold = 0.8
+In CELF: Time: 0.055, Influence: 152
+In simple greedy: Time: 0.984, Influence: 152
+k = 20, threshold = 0.2
+In CELF: Time: 9.138, Influence: 1458
+In simple greedy: Time: 35.164, Influence: 1459
+k = 20, threshold = 0.3
+In CELF: Time: 0.608, Influence: 1292
+In simple greedy: Time: 22.356, Influence: 1294
+k = 20, threshold = 0.4
+In CELF: Time: 0.077, Influence: 419
+In simple greedy: Time: 6.069, Influence: 449
+k = 20, threshold = 0.5
+In CELF: Time: 0.074, Influence: 393
+In simple greedy: Time: 5.61, Influence: 402
+k = 20, threshold = 0.6
+In CELF: Time: 0.064, Influence: 245
+In simple greedy: Time: 3.865, Influence: 248
+k = 20, threshold = 0.7
+In CELF: Time: 0.066, Influence: 235
+In simple greedy: Time: 4.43, Influence: 238
+k = 20, threshold = 0.8
+In CELF: Time: 0.097, Influence: 235
+In simple greedy: Time: 4.537, Influence: 238
+k = 30, threshold = 0.2
+In CELF: Time: 12.036, Influence: 1458
+In simple greedy: Time: 53.382, Influence: 1459
+k = 30, threshold = 0.3
+In CELF: Time: 0.904, Influence: 1377
+In simple greedy: Time: 37.431, Influence: 1385
+k = 30, threshold = 0.4
+In CELF: Time: 0.096, Influence: 536
+In simple greedy: Time: 12.391, Influence: 600
+k = 30, threshold = 0.5
+In CELF: Time: 0.095, Influence: 495
+In simple greedy: Time: 11.001, Influence: 514
+k = 30, threshold = 0.6
+In CELF: Time: 0.073, Influence: 317
+In simple greedy: Time: 7.299, Influence: 323
+k = 30, threshold = 0.7
+In CELF: Time: 0.071, Influence: 303
+In simple greedy: Time: 6.473, Influence: 305
+k = 30, threshold = 0.8
+In CELF: Time: 0.071, Influence: 303
+In simple greedy: Time: 6.537, Influence: 305
+k = 40, threshold = 0.2
+In CELF: Time: 9.13, Influence: 1458
+In simple greedy: Time: 73.821, Influence: 1459
+k = 40, threshold = 0.3
+In CELF: Time: 1.577, Influence: 1428
+In simple greedy: Time: 57.609, Influence: 1438
+k = 40, threshold = 0.4
+In CELF: Time: 0.139, Influence: 650
+In simple greedy: Time: 23.132, Influence: 769
+k = 40, threshold = 0.5
+In CELF: Time: 0.132, Influence: 582
+In simple greedy: Time: 29.735, Influence: 637
+k = 40, threshold = 0.6
+In CELF: Time: 0.146, Influence: 376
+In simple greedy: Time: 17.023, Influence: 388
+k = 40, threshold = 0.7
+In CELF: Time: 0.1, Influence: 359
+In simple greedy: Time: 13.993, Influence: 365
+k = 40, threshold = 0.8
+In CELF: Time: 0.18, Influence: 359
+In simple greedy: Time: 15.076, Influence: 365
+k = 50, threshold = 0.2
+In CELF: Time: 9.164, Influence: 1458
+In simple greedy: Time: 90.648, Influence: 1459
+k = 50, threshold = 0.3
+In CELF: Time: 7.354, Influence: 1458
+In simple greedy: Time: 77.801, Influence: 1459
+k = 50, threshold = 0.4
+In CELF: Time: 0.18, Influence: 734
+In simple greedy: Time: 32.317, Influence: 1025
+k = 50, threshold = 0.5
+In CELF: Time: 0.161, Influence: 654
+In simple greedy: Time: 28.47, Influence: 749
+k = 50, threshold = 0.6
+In CELF: Time: 0.102, Influence: 434
+In simple greedy: Time: 18.079, Influence: 454
+k = 50, threshold = 0.7
+In CELF: Time: 0.098, Influence: 413
+In simple greedy: Time: 15.653, Influence: 417
+k = 50, threshold = 0.8
+In CELF: Time: 0.122, Influence: 413
+In simple greedy: Time: 16.176, Influence: 417
+k = 60, threshold = 0.2
+In CELF: Time: 9.442, Influence: 1458
+In simple greedy: Time: 108.709, Influence: 1459
+k = 60, threshold = 0.3
+In CELF: Time: 9.115, Influence: 1458
+In simple greedy: Time: 100.318, Influence: 1459
+k = 60, threshold = 0.4
+In CELF: Time: 0.241, Influence: 963
+In simple greedy: Time: 46.471, Influence: 1146
+k = 60, threshold = 0.5
+In CELF: Time: 0.217, Influence: 730
+In simple greedy: Time: 38.573, Influence: 879
+k = 60, threshold = 0.6
+In CELF: Time: 0.12, Influence: 477
+In simple greedy: Time: 23.966, Influence: 506
+k = 60, threshold = 0.7
+In CELF: Time: 0.116, Influence: 455
+In simple greedy: Time: 21.157, Influence: 468
+k = 60, threshold = 0.8
+In CELF: Time: 0.114, Influence: 454
+In simple greedy: Time: 21.461, Influence: 467
